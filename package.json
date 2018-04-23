@@ -1,0 +1,11 @@
+{
+  "name": "kkeisuke.com",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "kkeisuke",
+  "devDependencies": {
+    "vuepress": "vuejs/vuepress#master"
+  }
+}
