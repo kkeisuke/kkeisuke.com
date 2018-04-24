@@ -6,6 +6,6 @@
   },
   "author": "kkeisuke",
   "devDependencies": {
-    "vuepress": "vuejs/vuepress#master"
+    "vuepress": "^0.8.3"
   }
 }
