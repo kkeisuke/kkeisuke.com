@@ -38,6 +38,22 @@ GitHub : [kkeisuke/utility](https://github.com/kkeisuke/utility)
 
 ![utility tools by kkeisuke.com](https://raw.githubusercontent.com/kkeisuke/utility/master/screenshot/sqlformat.png)
 
+## kkeisuke's はてなブックマーク
+
+https://hatebu.kkeisuke.com/
+
+GitHub :<br>
+[kkeisuke/hatebu-kkeisuke](https://github.com/kkeisuke/hatebu-kkeisuke)<br>
+[kkeisuke/hatebu-kkeisuke-client](https://github.com/kkeisuke/hatebu-kkeisuke-client)
+
+::: tip What?
+- 任意アカウントの「はてなブックマーク」データをダウンロードし、markdown ファイルを作成後、GitHub のリポジトリに push します。
+- push された markdown ファイルを Hugo で HTML ファイルにビルドして公開しています。
+- Node.js
+:::
+
+![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.app/png/UDfLKJrFmq0CtVqh_0SwTCs0seaW0KA2BJ04SlbGqqkLN5Invf0e4mX4CnI1a61222GO2_mOa_mEBkab3TCzsyz-Vhv18knOfECGm39P78rIt3_ncPE6B3v2Ey6aYS3oRS6uZSEzhRgo2i7Q38IP7jSfBn1DZCF996cI5GPhbuamS4_h95zXiCGq449hQGpGYc8l3ZnVz3Qqce7zCd_k5ulxGqxodEIIif_YSbvyvy0ZmJ1ahi38xQoDEBRZaHDDkO8aRobxfEo9vCllrrqvkmB67QnQkw8LMscgpOssMmbc7oGVI4gICr2rzNBQee5TIgMbGFO6kjpErJuDB1UVvVoTickIP_LIotQqfkexgScLsvpag-BzjzgS4j5ClQXw3dQs5Vz6UIHviJO80mNLL_y1QApH3000.png)
+
 ## Other
 
 現在公開しているアプリケーションは以上ですが、以前は [Android アプリも公開していました。](https://news.mynavi.jp/article/20110502-a055/)
