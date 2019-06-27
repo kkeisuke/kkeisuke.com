@@ -23,7 +23,7 @@ module.exports = {
     ]
   },
   markdown: {
-    config: (md) => {
+    extendMarkdown: (md) => {
       md.options.linkify = true
     }
   }
