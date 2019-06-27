@@ -6,7 +6,7 @@
   },
   "author": "kkeisuke",
   "devDependencies": {
-    "vuepress": "^0.14.10",
+    "vuepress": "^1.0.2",
     "webpack-dev-middleware": "3.6.0"
   }
 }
