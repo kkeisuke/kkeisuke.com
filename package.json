@@ -6,6 +6,7 @@
   },
   "author": "kkeisuke",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.2.0",
     "vuepress": "^1.2.0",
     "webpack-dev-middleware": "3.7.2"
   }

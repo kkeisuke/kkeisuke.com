@@ -13,6 +13,7 @@ sidebar: auto
 
 ## Qiita
 
+- [golang + vscode + bingo(gopls) でコード補完を実現する](https://qiita.com/kkeisuke/items/be3d9969fcfdca81753c)
 - [@vue/cli 3 に flow を導入する](https://qiita.com/kkeisuke/items/fdcdcd416802574dc768)
 - [Docker + Go + Gin の開発環境を準備する](https://qiita.com/kkeisuke/items/7cd4d5834386666faab3)
 - [CodeMirror Addon の hint/show-hint.js でスニペット実装](https://qiita.com/kkeisuke/items/9e1dd8a186133d7b4cd7)
@@ -22,5 +23,6 @@ sidebar: auto
 
 ## hatenablog
 
+- [Cloud Run で PlantUML Server を利用する](https://kkeisuke.hatenablog.com/entry/2019/04/16/193848)
 - [PlantUML を導入するのに適したケースとは](https://kkeisuke.hatenablog.com/entry/2018/02/06/054803)
 - [PM するときに必ず見返すスライド、ブログ記事](https://kkeisuke.hatenablog.com/entry/2017/02/19/022528)
