@@ -2,6 +2,7 @@ module.exports = {
   title: 'kkeisuke.com',
   description: 'Web Application Engineer',
   themeConfig: {
+    search: false,
     repo: 'kkeisuke/kkeisuke.com',
     lastUpdated: 'Last Updated',
     smoothScroll: true,
@@ -21,6 +22,10 @@ module.exports = {
       {
         text: 'SNS',
         link: '/sns'
+      },
+      {
+        text: 'お問い合わせ',
+        link: 'https://goo.gl/forms/xoKOlTbN2Mqf5eh22'
       }
     ]
   },

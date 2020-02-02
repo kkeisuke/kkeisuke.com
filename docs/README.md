@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: img/Lento.png
-actionText: お問い合わせ
-actionLink: https://goo.gl/forms/xoKOlTbN2Mqf5eh22
+actionText: 実績はこちら
+actionLink: /work
 features:
 - title: プロフィール
   details: 木村慶介 / keisuke kimura / 熊本県で活動しているフリーランスの Web エンジニアです。主にフロントエンドを生業にしています。
