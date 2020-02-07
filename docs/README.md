@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: img/Lento.png
-actionText: 実績はこちら
+actionText: 実績はこちら →
 actionLink: /work
 features:
 - title: プロフィール
