@@ -1,10 +1,10 @@
 {
   "name": "kkeisuke.com",
+  "author": "kkeisuke",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "kkeisuke",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.2.0",
     "vuepress": "^1.2.0",
