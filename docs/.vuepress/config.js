@@ -24,6 +24,10 @@ module.exports = {
         link: '/sns'
       },
       {
+        text: 'Wiki',
+        link: '/wiki/'
+      },
+      {
         text: 'お問い合わせ',
         link: 'https://goo.gl/forms/xoKOlTbN2Mqf5eh22'
       }
