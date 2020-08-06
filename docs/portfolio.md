@@ -31,6 +31,9 @@ https://plantuml-editor.kkeisuke.com/
 
 GitHub : [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor)
 
+<a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/plantuml-editor?style=social"></a>
+<a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/forks/kkeisuke/plantuml-editor?style=social"></a>
+
 ::: tip What?
 - PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
 - Vue, Vuex
@@ -47,6 +50,8 @@ GitHub : [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor)
 ## LINE Bot
 
 GitHub : https://github.com/kkeisuke/line-to-google-photos
+
+<a href="https://github.com/kkeisuke/line-to-google-photos" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/line-to-google-photos?style=social"></a>
 
 ::: tip What?
 - LINE Messaging API、GCP Cloud Functions を使って Google Photos へ画像をアップします。

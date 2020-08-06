@@ -22,12 +22,13 @@ sidebar: auto
 - 請求書
 - 発注者台帳
 - 支払先台帳
+- 経営事項審査関連書
 
-各種書式、経営事項審査、会計システム連携など開発予定
+各種書式、会計システム連携など開発予定
 
 ## 受託案件 (2018 〜 )
 
-- Vue, Nuxt, Firestore, etc
+- TypeScript, Vue, Nuxt, Firestore, etc
 
 ## 売買革命 (2013 〜 2018)
 

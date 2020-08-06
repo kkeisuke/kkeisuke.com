@@ -11,6 +11,8 @@ sidebar: auto
 - [wantedly](https://www.wantedly.com/users/26957334)
 - [CodePen](https://codepen.io/_kkeisuke/)
 
+<a href="https://twitter.com/kkeisuke" target="_blank"><img src="https://img.shields.io/twitter/follow/kkeisuke?style=social"></a>
+
 ## Qiita
 
 - [golang + vscode + bingo(gopls) でコード補完を実現する](https://qiita.com/kkeisuke/items/be3d9969fcfdca81753c)
@@ -23,6 +25,8 @@ sidebar: auto
 
 ## hatenablog
 
+- [Vue 2 系で作るコンポーネント設計方針](https://kkeisuke.hatenablog.com/entry/2020/08/02/234526)
+- [フロントエンド戦略とUIフレームワーク](https://kkeisuke.hatenablog.com/entry/2020/06/28/172931)
 - [Cloud Run で PlantUML Server を利用する](https://kkeisuke.hatenablog.com/entry/2019/04/16/193848)
 - [PlantUML を導入するのに適したケースとは](https://kkeisuke.hatenablog.com/entry/2018/02/06/054803)
 - [PM するときに必ず見返すスライド、ブログ記事](https://kkeisuke.hatenablog.com/entry/2017/02/19/022528)
