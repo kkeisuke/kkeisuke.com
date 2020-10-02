@@ -6,7 +6,7 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.5.3",
-    "vuepress": "^1.5.3"
+    "@vuepress/plugin-back-to-top": "^1.6.0",
+    "vuepress": "^1.6.0"
   }
 }
