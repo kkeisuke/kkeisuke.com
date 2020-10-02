@@ -6,6 +6,17 @@ sidebar: auto
 
 [[toc]]
 
+## Note
+
+Github : [kkeisuke/note](https://github.com/kkeisuke/note)
+
+::: tip What?
+- Vue3 のサンプルアプリケーションです。
+- Composition API
+:::
+
+![screenshot](https://raw.githubusercontent.com/kkeisuke/note/master/screenshot.png)
+
 ## kkeisuke's はてなブックマーク
 
 https://hatebu-search.kkeisuke.app/<br>
@@ -49,7 +60,7 @@ GitHub : [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor)
 
 ## LINE Bot
 
-GitHub : https://github.com/kkeisuke/line-to-google-photos
+GitHub : [kkeisuke/line-to-google-photos](https://github.com/kkeisuke/line-to-google-photos)
 
 <a href="https://github.com/kkeisuke/line-to-google-photos" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/line-to-google-photos?style=social"></a>
 
