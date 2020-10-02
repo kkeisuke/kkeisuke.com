@@ -1,6 +1,9 @@
 module.exports = {
   title: 'kkeisuke.com',
   description: 'Web Application Engineer',
+  head: [
+    ['link', { rel: 'icon', href: '/icon/favicon.ico' }],
+  ],
   themeConfig: {
     search: false,
     repo: 'kkeisuke/kkeisuke.com',
