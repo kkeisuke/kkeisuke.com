@@ -6,7 +6,8 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.6.0",
-    "vuepress": "^1.6.0"
+    "@vuepress/plugin-back-to-top": "^1.7.0",
+    "vuepress": "^1.7.0",
+    "vuepress-plugin-smooth-scroll": "0.0.10"
   }
 }
