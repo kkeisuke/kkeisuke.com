@@ -13,6 +13,7 @@ Github : [kkeisuke/note](https://github.com/kkeisuke/note)
 ::: tip What?
 - Vue3 のサンプルアプリケーションです。
 - Composition API
+- provide / inject
 :::
 
 ![screenshot](https://raw.githubusercontent.com/kkeisuke/note/master/screenshot.png)
