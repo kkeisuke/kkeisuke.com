@@ -13,6 +13,10 @@ sidebar: auto
 
 <a href="https://twitter.com/kkeisuke" target="_blank"><img src="https://img.shields.io/twitter/follow/kkeisuke?style=social"></a>
 
+## Zenn
+
+- [Vue3 対応の UI フレームワーク「PrimeVue」のポイントを調査していく](https://zenn.dev/kkeisuke/scraps/453d95136435a129ef9d)
+
 ## Qiita
 
 - [golang + vscode + bingo(gopls) でコード補完を実現する](https://qiita.com/kkeisuke/items/be3d9969fcfdca81753c)
