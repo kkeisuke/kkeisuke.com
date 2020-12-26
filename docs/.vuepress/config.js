@@ -31,6 +31,10 @@ module.exports = {
         link: '/wiki/'
       },
       {
+        text: 'Blog',
+        link: 'https://blog.kkeisuke.com/'
+      },
+      {
         text: 'お問い合わせ',
         link: 'https://goo.gl/forms/xoKOlTbN2Mqf5eh22'
       }
