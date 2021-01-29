@@ -34,7 +34,7 @@ Github : [kkeisuke/note](https://github.com/kkeisuke/note)
 
 ## kkeisuke's はてなブックマーク
 
-https://hatebu-search.kkeisuke.app/<br>
+https://hatebu-search.kkeisuke.dev/<br>
 https://hatebu.kkeisuke.com/
 
 GitHub :<br>
@@ -49,7 +49,7 @@ GitHub :<br>
 - Algolia に index を追加し、WebアプリとCLIツールからブックマークを検索できます。
 :::
 
-![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.app/png/ZLD1RzCm6BtxLtmIXy6X_80SqAe9hPCcD6aI738EJkCcfevTEOu6rnY9mWK4eZqm2JJr149COiUD_HYl7J-3pqvQ0k90Jiz-dz_t-JrdkpHKcweGX6oLOoudLDC22YNLCDUgO61qnRfKcTDK7NEPmOYAyWygeSDnfbKbqnqbb8PRzyD7I3nWMeqhE1pcBAq4qu-1bb2kLoJEgM6IGlzWBp3DaiIxt0og96nbt92uBp8bE0qRjC5agws2_cHIhaiz9h6pCsU_kleiR2T2PIHUBKvkpayViSJLfyxEdVtSpC8DMvCx-tlEFdVsmjalWHmAZctCCJUc7Rt5X6pk03tDizpqxhN3Ht0adNtXLUghvUlPyiUSI6KO23Ooe4QTsmCyK2cx-wH4L50zHdibN5-UhAPl29Cf-6FTHfx7Fgq14N2PigT7ykVLvVBLftyKeX_HHXYdghyx-z5Pw-mKGqSMUdwefj8x5q6tnjdt7jJVGgtdDygj3H6iFfolPcUkVkkDgnV1koa9qcsfTnzrlIFp4CgYiIDHngZ26nBoGI-O4Npq3D6WoXIUU8SnEFlojnN4XmMzQj8r0P_Etu8XqwxWuK4VRZ-i6632TpfwcEz_oFbN0B2hEWUt4UAlymi0.png)
+![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.dev/png/ZLD1RzCm6BtxLtmIXy6X_80SqAe9hPCcD6aI738EJkCcfevTEOu6rnY9mWK4eZqm2JJr149COiUD_HYl7J-3pqvQ0k90Jiz-dz_t-JrdkpHKcweGX6oLOoudLDC22YNLCDUgO61qnRfKcTDK7NEPmOYAyWygeSDnfbKbqnqbb8PRzyD7I3nWMeqhE1pcBAq4qu-1bb2kLoJEgM6IGlzWBp3DaiIxt0og96nbt92uBp8bE0qRjC5agws2_cHIhaiz9h6pCsU_kleiR2T2PIHUBKvkpayViSJLfyxEdVtSpC8DMvCx-tlEFdVsmjalWHmAZctCCJUc7Rt5X6pk03tDizpqxhN3Ht0adNtXLUghvUlPyiUSI6KO23Ooe4QTsmCyK2cx-wH4L50zHdibN5-UhAPl29Cf-6FTHfx7Fgq14N2PigT7ykVLvVBLftyKeX_HHXYdghyx-z5Pw-mKGqSMUdwefj8x5q6tnjdt7jJVGgtdDygj3H6iFfolPcUkVkkDgnV1koa9qcsfTnzrlIFp4CgYiIDHngZ26nBoGI-O4Npq3D6WoXIUU8SnEFlojnN4XmMzQj8r0P_Etu8XqwxWuK4VRZ-i6632TpfwcEz_oFbN0B2hEWUt4UAlymi0.png)
 
 ## PlantUML Editor
 
@@ -84,7 +84,7 @@ GitHub : [kkeisuke/line-to-google-photos](https://github.com/kkeisuke/line-to-go
 - TypeScript, Node.js
 :::
 
-![line-to-google-photos](https://plantuml-server.kkeisuke.app/png/RPB1QiCm38RlVWhH-ruWXz5Ijb8O8uSTSt4SaPZOacVBZBtzx2GiXFOewTEl_pS-9z5HidTAwInCsVSObKgpfQ2Zzk2Ps4oHFOB4Z0KpmX5oAbWXn1eRD0byt3_VUXRG2PmbFCnED-RHOKTNntdew3sJ4SkKJXM_NTjdD5pQ-mgCIws3JSzLsuc5qyw7MYjLBSBBwsAd0UlrY923OpsesggZShg17-mdvbcLOiSZVcTCiguT-OWf5E-upRQrtUI-V346Ku8ldf7K3Zmg7S1DS4dHR8xNMnsPY5eGF0vMWnNqQi4U59-7YHZSxt-O-ZxDrbDdfA7yWZy0.png)
+![line-to-google-photos](https://plantuml-server.kkeisuke.dev/png/RPB1QiCm38RlVWhH-ruWXz5Ijb8O8uSTSt4SaPZOacVBZBtzx2GiXFOewTEl_pS-9z5HidTAwInCsVSObKgpfQ2Zzk2Ps4oHFOB4Z0KpmX5oAbWXn1eRD0byt3_VUXRG2PmbFCnED-RHOKTNntdew3sJ4SkKJXM_NTjdD5pQ-mgCIws3JSzLsuc5qyw7MYjLBSBBwsAd0UlrY923OpsesggZShg17-mdvbcLOiSZVcTCiguT-OWf5E-upRQrtUI-V346Ku8ldf7K3Zmg7S1DS4dHR8xNMnsPY5eGF0vMWnNqQi4U59-7YHZSxt-O-ZxDrbDdfA7yWZy0.png)
 
 ## Utility
 

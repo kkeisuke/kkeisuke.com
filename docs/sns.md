@@ -4,6 +4,7 @@ sidebar: auto
 
 # SNS
 
+- [Zenn](https://zenn.dev/kkeisuke)
 - [Qiita](http://qiita.com/kkeisuke)
 - [はてなブックマーク](http://b.hatena.ne.jp/kkeisuke)
 - [twitter](https://twitter.com/kkeisuke)
