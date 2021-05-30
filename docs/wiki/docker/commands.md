@@ -31,11 +31,8 @@ docker images
 ```shell
 docker rmi <イメージ名>
 
-# 全削除
-docker images | awk 'NR>1 {print $3}' | xargs docker rmi
-
 # タグなしのイメージをすべて削除する
-docker images | grep '<none>' | awk '{print$3}' | xargs docker rmi
+docker images -qf dangling=true | xargs docker rmi
 ```
 
 
@@ -74,8 +71,8 @@ docker-compose stop
 # -v ボリューム削除
 docker-compose down
 
-# 全削除
-docker ps -a | awk 'NR>1 {print $1}' | xargs docker rm
+# 起動していないコンテナの削除
+docker ps -aqf status=exited | xargs docker rm
 ```
 
 ## コンテナログ確認
