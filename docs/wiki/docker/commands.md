@@ -35,6 +35,12 @@ docker rmi <イメージ名>
 docker images -qf dangling=true | xargs docker rmi
 ```
 
+## ビルドキャッシュ削除
+
+```shell
+# --force , -f
+docker builder prune -f
+```
 
 ## コンテナ作成・起動
 
@@ -104,4 +110,10 @@ docker volume rm <ボリューム名>
 
 # リンク切れ削除
 docker volume ls -qf dangling=true | xargs docker volume rm
+```
+
+## ステータス表示
+
+```shell
+docker stats --format "table {{.ID}}\t{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.BlockIO}}"
 ```
