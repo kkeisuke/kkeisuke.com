@@ -93,3 +93,12 @@ K に union types を使う場合に強力
 ```
 Record<K,T>
 ```
+
+## 関数の引数の型を抽出する
+
+https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype
+
+```
+Parameters<関数型>
+Parameters<typeof 関数>
+```
