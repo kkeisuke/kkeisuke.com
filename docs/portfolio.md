@@ -12,10 +12,11 @@ https://to-gif.vercel.app/
 
 Github : [kkeisuke/to-gif](https://github.com/kkeisuke/to-gif)
 
-::: tip What?
-- Vue3 のサンプルアプリケーションです。
+::: tip
+- Vue3 のサンプルアプリケーション
 - Composition API
 - provide / inject
+- TypeScript
 :::
 
 ![screenshot](https://raw.githubusercontent.com/kkeisuke/to-gif/master/screenshot.gif)
@@ -24,10 +25,11 @@ Github : [kkeisuke/to-gif](https://github.com/kkeisuke/to-gif)
 
 Github : [kkeisuke/note](https://github.com/kkeisuke/note)
 
-::: tip What?
-- Vue3 のサンプルアプリケーションです。
+::: tip
+- Vue3 のサンプルアプリケーション
 - Composition API
 - provide / inject
+- TypeScript, Tailwind CSS
 :::
 
 ![screenshot](https://raw.githubusercontent.com/kkeisuke/note/master/screenshot.png)
@@ -37,19 +39,36 @@ Github : [kkeisuke/note](https://github.com/kkeisuke/note)
 https://hatebu-search.kkeisuke.dev/<br>
 https://hatebu.kkeisuke.com/
 
-GitHub :<br>
-[kkeisuke/hatebu-kkeisuke](https://github.com/kkeisuke/hatebu-kkeisuke)<br>
-[kkeisuke/hatebu-kkeisuke-search](https://github.com/kkeisuke/hatebu-kkeisuke-search)<br>
-[kkeisuke/hatebu-kkeisuke-cli](https://github.com/kkeisuke/hatebu-kkeisuke-cli)<br>
-[kkeisuke/hatebu-kkeisuke-client](https://github.com/kkeisuke/hatebu-kkeisuke-client)
+#### GitHub
 
-::: tip What?
+- [kkeisuke/hatebu-kkeisuke-2](https://github.com/kkeisuke/hatebu-kkeisuke-2)
+- [kkeisuke/hatebu-kkeisuke-search](https://github.com/kkeisuke/hatebu-kkeisuke-search)
+- [kkeisuke/hatebu-kkeisuke-cli](https://github.com/kkeisuke/hatebu-kkeisuke-cli)
+- [kkeisuke/hatebu-kkeisuke-client](https://github.com/kkeisuke/hatebu-kkeisuke-client)
+
+::: tip
 - 任意アカウントの「はてなブックマーク」データをダウンロードし、markdown ファイルを作成後、GitHub のリポジトリに push します。
 - push された markdown ファイルを Hugo で HTML ファイルにビルドして公開しています。
 - Algolia に index を追加し、WebアプリとCLIツールからブックマークを検索できます。
+
+#### 使用技術
+
+- TypeScript, esbuild, Vue2, Go
 :::
 
 ![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.dev/png/ZLD1RzCm6BtxLtmIXy6X_80SqAe9hPCcD6aI738EJkCcfevTEOu6rnY9mWK4eZqm2JJr149COiUD_HYl7J-3pqvQ0k90Jiz-dz_t-JrdkpHKcweGX6oLOoudLDC22YNLCDUgO61qnRfKcTDK7NEPmOYAyWygeSDnfbKbqnqbb8PRzyD7I3nWMeqhE1pcBAq4qu-1bb2kLoJEgM6IGlzWBp3DaiIxt0og96nbt92uBp8bE0qRjC5agws2_cHIhaiz9h6pCsU_kleiR2T2PIHUBKvkpayViSJLfyxEdVtSpC8DMvCx-tlEFdVsmjalWHmAZctCCJUc7Rt5X6pk03tDizpqxhN3Ht0adNtXLUghvUlPyiUSI6KO23Ooe4QTsmCyK2cx-wH4L50zHdibN5-UhAPl29Cf-6FTHfx7Fgq14N2PigT7ykVLvVBLftyKeX_HHXYdghyx-z5Pw-mKGqSMUdwefj8x5q6tnjdt7jJVGgtdDygj3H6iFfolPcUkVkkDgnV1koa9qcsfTnzrlIFp4CgYiIDHngZ26nBoGI-O4Npq3D6WoXIUU8SnEFlojnN4XmMzQj8r0P_Etu8XqwxWuK4VRZ-i6632TpfwcEz_oFbN0B2hEWUt4UAlymi0.png)
+
+## blog
+
+https://blog.kkeisuke.com/
+
+Github : [kkeisuke/kkeisuke-blog](https://github.com/kkeisuke/kkeisuke-blog)
+
+::: tip
+- TypeScript, Nuxt Content, Tailwind CSS
+:::
+
+![kkeisuke blog](/img/blog.png)
 
 ## PlantUML Editor
 
@@ -60,9 +79,9 @@ GitHub : [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor)
 <a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/plantuml-editor?style=social"></a>
 <a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/forks/kkeisuke/plantuml-editor?style=social"></a>
 
-::: tip What?
+::: tip
 - PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
-- Vue, Vuex
+- Vue2, Vuex
 :::
 
 ![PlantUML online demo client](https://plantuml-editor.kkeisuke.com/static/capture1_20170809.png)
@@ -79,8 +98,8 @@ GitHub : [kkeisuke/line-to-google-photos](https://github.com/kkeisuke/line-to-go
 
 <a href="https://github.com/kkeisuke/line-to-google-photos" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/line-to-google-photos?style=social"></a>
 
-::: tip What?
-- LINE Messaging API、GCP Cloud Functions を使って Google Photos へ画像をアップします。
+::: tip
+- LINE Messaging API、GCP Cloud Functions を使って Google Photos へ画像をアップ
 - TypeScript, Node.js
 :::
 
@@ -88,16 +107,16 @@ GitHub : [kkeisuke/line-to-google-photos](https://github.com/kkeisuke/line-to-go
 
 ## Utility
 
-https://utility.kkeisuke.com/
+https://utility.kkeisuke.dev/
 
-GitHub : [kkeisuke/utility](https://github.com/kkeisuke/utility)
+GitHub : [kkeisuke/utility2](https://github.com/kkeisuke/utility2)
 
-::: tip What?
-- SQL や JSON のフォーマットなど、開発時に使いたいちょっとした機能を公開しています。
-- React, MobX, TypeScript
+::: tip
+- SQL や JSON のフォーマット、ダミー画像作成など、開発時に使用するツール群
+- React, Next, TypeScript, Tailwind CSS
 :::
 
-![utility tools by kkeisuke.com](https://raw.githubusercontent.com/kkeisuke/utility/master/screenshot/sqlformat.png)
+![utility tools by kkeisuke.com](/img/utility.png)
 
 ## Other
 

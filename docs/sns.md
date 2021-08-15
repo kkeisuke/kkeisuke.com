@@ -4,19 +4,23 @@ sidebar: auto
 
 # SNS
 
-- [Zenn](https://zenn.dev/kkeisuke)
+- [Zenn](https://zenn.dev/kkeisuke/scraps)
 - [Qiita](http://qiita.com/kkeisuke)
 - [はてなブックマーク](http://b.hatena.ne.jp/kkeisuke)
 - [twitter](https://twitter.com/kkeisuke)
-- [hatenablog](http://kkeisuke.hatenablog.com)
 - [wantedly](https://www.wantedly.com/users/26957334)
 - [CodePen](https://codepen.io/_kkeisuke/)
 
 <a href="https://twitter.com/kkeisuke" target="_blank"><img src="https://img.shields.io/twitter/follow/kkeisuke?style=social"></a>
 
+## blog
+
+- [Go で業務システムAPI を開発する](https://blog.kkeisuke.com/articles/20210125_web_api_go)
+
 ## Zenn
 
-- [Vue3 対応の UI フレームワーク「PrimeVue」のポイントを調査していく](https://zenn.dev/kkeisuke/scraps/453d95136435a129ef9d)
+- [Vue 3 に対応したUIフレームワークまとめ](https://zenn.dev/kkeisuke/scraps/1daef2e6c806d1)
+- [Vue 3 対応の UI フレームワーク「PrimeVue」のポイントを調査していく](https://zenn.dev/kkeisuke/scraps/453d95136435a129ef9d)
 
 ## Qiita
 
@@ -28,7 +32,7 @@ sidebar: auto
 - [TypeScript のちょっとした検証をしたい時にぱっと作れる環境](https://qiita.com/kkeisuke/items/4c2d70c6bbb06424a805)
 - [prettier でコードフォーマットしてみた](https://qiita.com/kkeisuke/items/8c77c59a81234de9870c)
 
-## hatenablog
+## hatenablog (旧)
 
 - [Vue 2 系で作るコンポーネント設計方針](https://kkeisuke.hatenablog.com/entry/2020/08/02/234526)
 - [フロントエンド戦略とUIフレームワーク](https://kkeisuke.hatenablog.com/entry/2020/06/28/172931)

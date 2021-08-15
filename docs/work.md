@@ -8,39 +8,54 @@ sidebar: auto
 
 ## 工事台帳管理システム (2018 〜 )
 
-::: tip What?
-- 小規模工事業向けの経理業務支援システム。
-- SaaS（マルチテナント）
-- 自社システムとして開発
+::: tip
+- 小規模工事業を対象にした経理業務支援システム
+- 家業の社内SEとして新規開発
+- 他社にも提供可能なマルチテナント構成
 - TypeScript, Vue, Go, PostgreSQL
 :::
 
 ![工事台帳管理システム](/img/construction.png)
 
 - 工事台帳
-- 工事原価明細書
+- 原価明細書
 - 請求書
 - 発注者台帳
 - 支払先台帳
-- 経営事項審査関連書
+- 経営事項審査に関する書類
 
-各種書式、会計システム連携など開発予定
+各種書式、会計システム連携などの開発を予定しています。
 
 ## 受託案件 (2018 〜 )
 
-- TypeScript, Vue, Nuxt, Firestore, etc
+業務システムのフロントエンドを中心にお受けしております。
+
+- 生産管理システム（複数）
+  - Vue2, Nuxt
+- BtoBサービス
+  - TypeScript, Vue3, Storybook
+- サービス LP
+  - Nuxt, Firestore
+
+etc
 
 ## 売買革命 (2013 〜 2018)
 
-不動産売買仲介営業支援システム
+不動産売買（仲介）、営業活動を支援するシステムのリニューアルに、<br>
+リードエンジニアとして参画しました。後に PM も担当しました。
 
 https://www.baibaikakumei.jp/
 
 ## その他 (2006 〜 2013)
 
-不動産ホームページ制作ツール ( CMS )<br>
-不動産情報流通サービス ( SaaS )<br>
-コーポレートサイト、ブランドサイト etc
+#### プロダクト / Webサイト
 
-- AngularJS (1.x), jQuery, Bootstrap, Sass, PHP, MySQL
-- Flash・ActionScript2/3
+- 不動産ホームページ制作ツール ( CMS )
+- 不動産情報サービス ( SaaS )
+- コーポレートサイト、ブランドサイト etc
+
+#### 技術
+
+- AngularJS (1.x), jQuery, Bootstrap, Sass
+- PHP, MySQL
+- Flash, AS2, AS3

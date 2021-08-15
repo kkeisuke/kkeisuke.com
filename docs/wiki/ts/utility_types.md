@@ -12,7 +12,7 @@ https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlyt
 Readonly<T>
 ```
 
-## optional(?) を取り除く
+## optional を取り除く
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredt
 
@@ -20,7 +20,7 @@ https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredt
 Required<T>
 ```
 
-## optional(?) へ変換する
+## optional へ変換する
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#partialt
 
@@ -88,7 +88,7 @@ Extract<T, U>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkt
 
-K に union types を使う場合に強力
+K に union types を使う場合に強力です。
 
 ```
 Record<K,T>
