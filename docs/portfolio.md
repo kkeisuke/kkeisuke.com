@@ -6,6 +6,19 @@ sidebar: auto
 
 [[toc]]
 
+## PlantUML Editor2
+
+https://plantuml-editor.kkeisuke.dev
+
+GitHub : [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2)
+
+::: tip
+- PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
+- Vue3, Vite, TypeScript
+:::
+
+![PlantUML online demo client](https://repository-images.githubusercontent.com/441818722/9774f41a-5a82-427d-a2ef-3c0ca27526e1)
+
 ## toGif
 
 https://to-gif.vercel.app/

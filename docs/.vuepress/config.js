@@ -27,17 +27,26 @@ module.exports = {
         link: '/sns'
       },
       {
-        text: 'Wiki',
-        link: '/wiki/'
-      },
-      {
         text: 'Blog',
         link: 'https://blog.kkeisuke.com/'
       },
       {
         text: 'お問い合わせ',
         link: 'https://goo.gl/forms/xoKOlTbN2Mqf5eh22'
-      }
+      },
+      {
+        text: 'その他',
+        items: [
+          {
+            text: 'Wiki',
+            link: '/wiki/'
+          },
+          {
+            text: 'Bookmark',
+            link: 'https://hatebu.kkeisuke.com/'
+          }
+        ]
+      },
     ]
   },
   markdown: {

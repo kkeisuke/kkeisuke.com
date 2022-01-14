@@ -8,7 +8,6 @@ sidebar: auto
 - [Qiita](http://qiita.com/kkeisuke)
 - [はてなブックマーク](http://b.hatena.ne.jp/kkeisuke)
 - [twitter](https://twitter.com/kkeisuke)
-- [wantedly](https://www.wantedly.com/users/26957334)
 - [CodePen](https://codepen.io/_kkeisuke/)
 
 <a href="https://twitter.com/kkeisuke" target="_blank"><img src="https://img.shields.io/twitter/follow/kkeisuke?style=social"></a>
@@ -19,8 +18,8 @@ sidebar: auto
 
 ## Zenn
 
+- [Tailwind CSS ベースのUIフレームワークまとめ](https://zenn.dev/kkeisuke/scraps/c3d668e6388676)
 - [Vue 3 に対応したUIフレームワークまとめ](https://zenn.dev/kkeisuke/scraps/1daef2e6c806d1)
-- [Vue 3 対応の UI フレームワーク「PrimeVue」のポイントを調査していく](https://zenn.dev/kkeisuke/scraps/453d95136435a129ef9d)
 
 ## Qiita
 
