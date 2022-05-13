@@ -14,7 +14,7 @@ GitHub : [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor
 
 ::: tip
 - PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
-- Vue3, Vite, TypeScript
+- Vue3, Vite, Vitest, TypeScript
 :::
 
 ![PlantUML online demo client](https://repository-images.githubusercontent.com/441818722/9774f41a-5a82-427d-a2ef-3c0ca27526e1)

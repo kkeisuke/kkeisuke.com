@@ -38,6 +38,8 @@ sidebar: auto
   - TypeScript, Vue3, Storybook
 - サービス LP
   - Nuxt, Firestore
+- フロントエンドフレームワーク等の導入支援
+  - Slack ベースのサポート
 
 etc
 
