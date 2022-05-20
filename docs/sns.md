@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # SNS
 
 - [Zenn](https://zenn.dev/kkeisuke/scraps)

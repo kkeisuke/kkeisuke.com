@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Docker コマンド備忘録
 
 - 参考

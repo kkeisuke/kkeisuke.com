@@ -20,5 +20,5 @@ footer: Copyright © 2018-present kkeisuke
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="img/qrcode.png" srcset="img/qrcode.png 1x, img/qrcode@2x.png 2x">
+  <img src="/img/qrcode.png" srcset="/img/qrcode.png 1x, /img/qrcode@2x.png 2x">
 </div>
