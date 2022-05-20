@@ -1,14 +1,15 @@
-module.exports = {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: 'kkeisuke.com',
   description: 'Web Application Engineer',
   head: [
     ['link', { rel: 'icon', href: '/icon/favicon.ico' }],
   ],
+  lastUpdated: true,
   themeConfig: {
-    search: false,
     repo: 'kkeisuke/kkeisuke.com',
     lastUpdated: 'Last Updated',
-    smoothScroll: true,
     nav: [
       {
         text: 'ホーム',
@@ -47,12 +48,27 @@ module.exports = {
           }
         ]
       },
-    ]
-  },
-  markdown: {
-    extendMarkdown: (md) => {
-      md.options.linkify = true
+    ],
+    sidebar: {
+      '/work': [
+        { text: '実績', link: '/work' }
+      ],
+      '/portfolio': [
+        { text: 'ポートフォリオ', link: '/portfolio' }
+      ],
+      '/sns': [
+        { text: 'SNS', link: '/sns' }
+      ],
+      '/wiki': [
+        {
+          text: 'Wiki',
+          link: '/wiki/',
+          children: [
+            { text: 'TypeScript', link: '/wiki/ts/utility_types' },
+            { text: 'Docker', link: '/wiki/docker/commands' }
+          ]
+        }
+      ]
     }
-  },
-  plugins: ['@vuepress/back-to-top']
-}
+  }
+})

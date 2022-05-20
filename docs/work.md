@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # 実績
 
 [[toc]]

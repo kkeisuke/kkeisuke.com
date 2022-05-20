@@ -1,14 +1,10 @@
----
-sidebar: auto
----
-
 # Utility Types チートシート
 
 ## readonly へ変換する
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlyt
 
-```
+```ts
 Readonly<T>
 ```
 
@@ -16,7 +12,7 @@ Readonly<T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#requiredt
 
-```
+```ts
 Required<T>
 ```
 
@@ -24,7 +20,7 @@ Required<T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#partialt
 
-```
+```ts
 Partial<T>
 ```
 
@@ -32,7 +28,7 @@ Partial<T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#picktk
 
-```
+```ts
 Pick<T, K>
 ```
 
@@ -40,7 +36,7 @@ Pick<T, K>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#omittk
 
-```
+```ts
 Omit<T, K>
 ```
 
@@ -48,7 +44,7 @@ Omit<T, K>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#nonnullablet
 
-```
+```ts
 NonNullable<T>
 ```
 
@@ -56,7 +52,7 @@ NonNullable<T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypet
 
-```
+```ts
 ReturnType<T>
 ```
 
@@ -64,7 +60,7 @@ ReturnType<T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#instancetypet
 
-```
+```ts
 InstanceType<typeof T>
 ```
 
@@ -72,7 +68,7 @@ InstanceType<typeof T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#excludetu
 
-```
+```ts
 Exclude<T, U>
 ```
 
@@ -80,7 +76,7 @@ Exclude<T, U>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#extracttu
 
-```
+```ts
 Extract<T, U>
 ```
 
@@ -90,7 +86,7 @@ https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkt
 
 K に union types を使う場合に強力です。
 
-```
+```ts
 Record<K,T>
 ```
 
@@ -98,7 +94,7 @@ Record<K,T>
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype
 
-```
+```ts
 Parameters<関数型>
 Parameters<typeof 関数>
 ```

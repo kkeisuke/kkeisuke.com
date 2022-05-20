@@ -2,8 +2,9 @@
   "name": "kkeisuke.com",
   "author": "kkeisuke",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs --port 8080"
   },
   "devDependencies": {
     "textlint": "^12.1.1",
