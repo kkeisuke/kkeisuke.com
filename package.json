@@ -6,11 +6,8 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.9.7",
     "textlint": "^12.1.1",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0",
-    "textlint-rule-preset-jtf-style": "^2.3.12",
-    "vuepress": "^1.9.7",
-    "vuepress-plugin-smooth-scroll": "0.0.10"
+    "textlint-rule-preset-jtf-style": "^2.3.12"
   }
 }
