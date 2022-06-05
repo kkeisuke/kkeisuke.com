@@ -12,7 +12,7 @@
 - TypeScript, Vue, Go, PostgreSQL
 :::
 
-![工事台帳管理システム](/img/construction.png)
+![工事台帳管理システム](/img/construction.webp)
 
 - 工事台帳
 - 原価明細書

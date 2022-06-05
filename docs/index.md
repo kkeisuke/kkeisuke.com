@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: img/Lento.png
+heroImage: img/Lento.webp
 actionText: 実績はこちら →
 actionLink: /work
 features:

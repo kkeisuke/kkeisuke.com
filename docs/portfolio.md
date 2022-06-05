@@ -77,7 +77,7 @@ Github : [kkeisuke/kkeisuke-blog](https://github.com/kkeisuke/kkeisuke-blog)
 - TypeScript, Nuxt Content, Tailwind CSS
 :::
 
-![kkeisuke blog](/img/blog.png)
+![kkeisuke blog](/img/blog.webp)
 
 ## PlantUML Editor
 
@@ -125,7 +125,7 @@ GitHub : [kkeisuke/utility2](https://github.com/kkeisuke/utility2)
 - React, Next, TypeScript, Tailwind CSS
 :::
 
-![utility tools by kkeisuke.com](/img/utility.png)
+![utility tools by kkeisuke.com](/img/utility.webp)
 
 ## Other
 
