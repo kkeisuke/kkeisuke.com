@@ -1,5 +1,8 @@
 import { defineConfig } from 'vitepress'
 
+const url = 'https://kkeisuke.com'
+const title = 'kkeisuke.com'
+const description = 'Web Application Engineer / Frontend Engineer'
 const pages = [
   {
     text: '実績',
@@ -17,10 +20,17 @@ const pages = [
 
 export default defineConfig({
   appearance: false,
-  title: 'kkeisuke.com',
-  description: 'Web Application Engineer / Frontend Engineer',
+  title,
+  description,
   head: [
     ['link', { rel: 'icon', href: '/icon/favicon.ico' }],
+    ['meta', { hid: 'ogTitle',property: 'og:title', content: title }],
+    ['meta', { hid: 'ogDescription', property: 'og:description', content: description }],
+    ['meta', { hid: 'ogType', property: 'og:type', content: 'website' }],
+    ['meta', { hid: 'ogImage', property: 'og:image', content: `${url}/img/Lento.webp` }],
+    ['meta', { hid: 'ogUrl', property: 'og:url', content: url }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:site', content: '@kkeisuke' }]
   ],
   lastUpdated: true,
   themeConfig: {
