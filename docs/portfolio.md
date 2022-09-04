@@ -8,6 +8,8 @@ https://plantuml-editor.kkeisuke.dev
 
 GitHub : [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor2)
 
+<a href="https://github.com/kkeisuke/plantuml-editor2" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/plantuml-editor2?style=social"></a>
+
 ::: tip
 - PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
 - Vue3, Vite, Vitest, TypeScript
@@ -65,7 +67,7 @@ https://hatebu.kkeisuke.com/
 - TypeScript, esbuild, Vue2, Go
 :::
 
-![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.dev/png/ZLD1RzCm6BtxLtmIXy6X_80SqAe9hPCcD6aI738EJkCcfevTEOu6rnY9mWK4eZqm2JJr149COiUD_HYl7J-3pqvQ0k90Jiz-dz_t-JrdkpHKcweGX6oLOoudLDC22YNLCDUgO61qnRfKcTDK7NEPmOYAyWygeSDnfbKbqnqbb8PRzyD7I3nWMeqhE1pcBAq4qu-1bb2kLoJEgM6IGlzWBp3DaiIxt0og96nbt92uBp8bE0qRjC5agws2_cHIhaiz9h6pCsU_kleiR2T2PIHUBKvkpayViSJLfyxEdVtSpC8DMvCx-tlEFdVsmjalWHmAZctCCJUc7Rt5X6pk03tDizpqxhN3Ht0adNtXLUghvUlPyiUSI6KO23Ooe4QTsmCyK2cx-wH4L50zHdibN5-UhAPl29Cf-6FTHfx7Fgq14N2PigT7ykVLvVBLftyKeX_HHXYdghyx-z5Pw-mKGqSMUdwefj8x5q6tnjdt7jJVGgtdDygj3H6iFfolPcUkVkkDgnV1koa9qcsfTnzrlIFp4CgYiIDHngZ26nBoGI-O4Npq3D6WoXIUU8SnEFlojnN4XmMzQj8r0P_Etu8XqwxWuK4VRZ-i6632TpfwcEz_oFbN0B2hEWUt4UAlymi0.png)
+![kkeisuke's はてなブックマーク](https://plantuml-server.kkeisuke.dev/png/ZPF1RjGm48RlVegHE2mSbWV80NLLeROIGfMGu91oS19lugvZhnn7XMkCnC8516Btq4gWQayWH2LwfFHXp2uy1cCdtGR4WPmc_d__7d-JR5M6QbENWWog2PTJgca9fP8gBRGg6HXTixvK5JHJHrpcCAQY-aDAQ3h9jQfbjgs4qd3ZRdW8YJMJ6TEGQYNXK2MFWLPGfGNBQi4qYGjgcAGmsjyBIljAuXrkTklMd7D3uf78bU0qBD2s9eFE1QFfjBgo-fh4piwT_UoQix2S29MJUBqy-Nb--eWbhZbrTk7inxONRjYLk7rlpzbdpdvpzbCGKy7n67F4ZM4wh7Gr8Pixm53pl333Ertp4Hn8Pv_xbEPozMg--huWKXa6WeqDg77lzW3tLSPk7rPObLHFaAw47nSdwzbhWjZ0R-iVv7KyfmCG0KUqJmxahykBrSiF_p0YZsWJZ5qrNvrzxwnrTaR805KO-gPQfoSNGT_Zx3jVD5-2r-kRv0v31ElZy_Nyp3LlFBXc6TZDI8Zkh9u-vdeYYp2KPOiZKSQeqWC9yq4Mp0W-VehLRfqhtF4Mn-3iYsiKn0yBXlMq3m4_dRy3mqpxWG_sHt3pOSq09tohbuVp_Oyu_nK0xAZhZLjOuN_p6m00)
 
 ## blog
 
@@ -86,6 +88,7 @@ https://plantuml-editor.kkeisuke.com/
 GitHub : [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor)
 
 <a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/plantuml-editor?style=social"></a>
+
 <a href="https://github.com/kkeisuke/plantuml-editor" target="_blank"><img src="https://img.shields.io/github/forks/kkeisuke/plantuml-editor?style=social"></a>
 
 ::: tip

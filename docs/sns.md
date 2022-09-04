@@ -10,6 +10,8 @@
 
 ## blog
 
+- [Vue2 の業務システムを Vue3 に移行する](https://blog.kkeisuke.com/articles/20220827_vue3_migration)
+- [はてブを利用し始めて5,000日](https://blog.kkeisuke.com/articles/20220124_hatebu_5000)
 - [Go で業務システムAPI を開発する](https://blog.kkeisuke.com/articles/20210125_web_api_go)
 
 ## Zenn

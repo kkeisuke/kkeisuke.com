@@ -9,7 +9,7 @@
 ::: tip
 - 小規模工事業を対象にした経理業務支援システム
 - 他社にも提供可能なマルチテナント構成
-- TypeScript, Vue, Go, PostgreSQL
+- TypeScript, Vue3, Go, PostgreSQL
 :::
 
 ![工事台帳管理システム](/img/construction.webp)
