@@ -1,32 +1,36 @@
 import { defineConfig } from 'vitepress'
 
+const pages = [
+  {
+    text: '実績',
+    link: '/work'
+  },
+  {
+    text: 'ポートフォリオ',
+    link: '/portfolio'
+  },
+  {
+    text: 'SNS',
+    link: '/sns'
+  },
+]
+
 export default defineConfig({
+  appearance: false,
   title: 'kkeisuke.com',
-  description: 'Web Application Engineer',
+  description: 'Web Application Engineer / Frontend Engineer',
   head: [
     ['link', { rel: 'icon', href: '/icon/favicon.ico' }],
   ],
   lastUpdated: true,
   themeConfig: {
-    repo: 'kkeisuke/kkeisuke.com',
-    lastUpdated: 'Last Updated',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/kkeisuke' },
+      { icon: 'twitter', link: 'https://twitter.com/kkeisuke' }
+    ],
+    lastUpdatedText: 'Last Updated',
     nav: [
-      {
-        text: 'ホーム',
-        link: '/'
-      },
-      {
-        text: '実績',
-        link: '/work'
-      },
-      {
-        text: 'ポートフォリオ',
-        link: '/portfolio'
-      },
-      {
-        text: 'SNS',
-        link: '/sns'
-      },
+      ...pages,
       {
         text: 'Blog',
         link: 'https://blog.kkeisuke.com/'
@@ -47,28 +51,17 @@ export default defineConfig({
             link: 'https://hatebu.kkeisuke.com/'
           }
         ]
-      },
+      }
     ],
-    sidebar: {
-      '/work': [
-        { text: '実績', link: '/work' }
-      ],
-      '/portfolio': [
-        { text: 'ポートフォリオ', link: '/portfolio' }
-      ],
-      '/sns': [
-        { text: 'SNS', link: '/sns' }
-      ],
-      '/wiki': [
-        {
-          text: 'Wiki',
-          link: '/wiki/',
-          children: [
-            { text: 'TypeScript', link: '/wiki/ts/utility_types' },
-            { text: 'Docker', link: '/wiki/docker/commands' }
-          ]
-        }
-      ]
+    sidebar: [
+      {
+        items: [
+          ...pages,
+        ]
+      }
+    ],
+    footer: {
+      copyright: 'Copyright © 2018-present kkeisuke'
     }
   }
 })
