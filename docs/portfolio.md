@@ -73,10 +73,11 @@ https://hatebu.kkeisuke.com/
 
 https://blog.kkeisuke.com/
 
-Github : [kkeisuke/kkeisuke-blog](https://github.com/kkeisuke/kkeisuke-blog)
+Github : [kkeisuke/kkeisuke-blog-2](https://github.com/kkeisuke/kkeisuke-blog-2)
 
 ::: tip
-- TypeScript, Nuxt Content, Tailwind CSS
+- TypeScript, Nuxt Content2（Nuxt3）, Tailwind CSS
+- Cloudflare Pages
 :::
 
 ![kkeisuke blog](/img/blog.webp)
@@ -126,6 +127,7 @@ GitHub : [kkeisuke/utility2](https://github.com/kkeisuke/utility2)
 ::: tip
 - SQL や JSON のフォーマット、ダミー画像作成など、開発時に使用するツール群
 - React, Next, TypeScript, Tailwind CSS
+- Vercel
 :::
 
 ![utility tools by kkeisuke.com](/img/utility.webp)
