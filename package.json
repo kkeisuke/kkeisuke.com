@@ -7,9 +7,9 @@
     "docs:serve": "vitepress serve docs --port 8080"
   },
   "devDependencies": {
-    "textlint": "^12.2.1",
+    "textlint": "^13.1.4",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "textlint-rule-preset-jtf-style": "^2.3.13",
-    "vitepress": "1.0.0-alpha.13"
+    "vitepress": "1.0.0-alpha.45"
   }
 }
