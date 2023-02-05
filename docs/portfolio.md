@@ -10,6 +10,8 @@ GitHub : [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor
 
 <a href="https://github.com/kkeisuke/plantuml-editor2" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/plantuml-editor2?style=social"></a>
 
+<a href="https://github.com/kkeisuke/plantuml-editor2" target="_blank"><img src="https://img.shields.io/github/forks/kkeisuke/plantuml-editor2?style=social"></a>
+
 ::: tip
 - PlantUML で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
 - Vue3, Vite, Vitest, TypeScript
@@ -17,11 +19,26 @@ GitHub : [kkeisuke/plantuml-editor2](https://github.com/kkeisuke/plantuml-editor
 
 ![PlantUML online demo client](https://repository-images.githubusercontent.com/441818722/9774f41a-5a82-427d-a2ef-3c0ca27526e1)
 
+## Mermaid Editor
+
+https://mermaid-editor.kkeisuke.dev
+
+GitHub : [kkeisuke/mermaid-editor](https://github.com/kkeisuke/mermaid-editor)
+
+::: tip
+- Mermaid で簡単にシーケンス図やクラス図などを作成できるWebアプリケーション
+- Vue3, Vite, Vitest, TypeScript
+:::
+
+![Mermaid online demo client](https://user-images.githubusercontent.com/1210502/215248604-2869945b-863a-4eab-ae9c-a7dd57db6f37.png)
+
 ## toGif
 
 https://to-gif.vercel.app/
 
 Github : [kkeisuke/to-gif](https://github.com/kkeisuke/to-gif)
+
+<a href="https://github.com/kkeisuke/to-gif" target="_blank"><img src="https://img.shields.io/github/stars/kkeisuke/to-gif?style=social"></a>
 
 ::: tip
 - Vue3 のサンプルアプリケーション
