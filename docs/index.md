@@ -21,7 +21,7 @@ features:
   - title: 得意技術
     details: TypeScript と Vue や React を用いたフロントエンド開発を最も得意としています。プロダクト要件に合わせた技術を選択します。
   - title: 経験のある技術
-    details: 直近では Go を用いた Web API、帳票出力サービス、Node.js (TS) を用いたスケジュールタスクなどの経験があります。バックエンド開発も承ります。
+    details: Go を使った Web API や帳票出力サービス、Node.js（TypeScript）による Web API・クローラの開発経験があります。バックエンド開発も対応可能です。
   - title: スキル
     details: TypeScript / Vue3 / Vue2 / React / CSS / Storybook / Node.js / Go / PostgreSQL / MySQL / Agile / PM / UI Design / and more...
 ---
