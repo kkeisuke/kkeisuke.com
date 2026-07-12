@@ -62,6 +62,16 @@ Github : [kkeisuke/note](https://github.com/kkeisuke/note)
 
 ![screenshot](https://raw.githubusercontent.com/kkeisuke/note/master/screenshot.png)
 
+## todo
+
+Github : [kkeisuke/todo](https://github.com/kkeisuke/todo)
+
+::: tip
+- Nuxt3 のサンプルアプリケーション
+- Supabase (@nuxtjs/supabase) による永続化、認証機能(パスワードレス)
+- TypeScript, PostgreSQL
+:::
+
 ## kkeisuke's はてなブックマーク
 
 https://hatebu-search.kkeisuke.dev/<br>
